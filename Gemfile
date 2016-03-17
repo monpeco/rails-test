@@ -11,6 +11,7 @@ gem 'sdoc',         '0.4.0', group: :doc
 
 group :development, :test do
   gem 'pg',             '0.17.1'
+  #gem 'pg', '~> 0.18.2'
   gem 'byebug',      '3.4.0'
   gem 'web-console', '2.0.0.beta3'
   gem 'spring',      '1.1.3'
